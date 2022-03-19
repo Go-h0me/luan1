@@ -28,6 +28,6 @@ In this article, we'll dive into the core conceps and features NextJS has to off
 
 ## File-based Routing
 
-![Create routes via your file + folder structure)](nextjs-file-based-routing.png)
+![Create routes via your file + folder structure)](nextjs.png)
 
 ... More content ...

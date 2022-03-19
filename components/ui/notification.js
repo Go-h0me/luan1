@@ -2,8 +2,7 @@ import ReactDOM from 'react-dom';
 
 import classes from './notification.module.css';
 
-function Notification(props) {
-  const { title, message, status } = props;
+function Notification({ title, message, status }) {
 
   let statusClasses = '';
 

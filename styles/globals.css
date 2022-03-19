@@ -5,16 +5,16 @@
 }
 
 body {
-  --color-grey-50: hsl(265, 55%, 96%);
-  --color-grey-100: hsl(265, 19%, 88%);
-  --color-grey-200: hsl(265, 7%, 70%);
-  --color-grey-300: hsl(265, 6%, 66%);
-  --color-grey-400: hsl(265, 4%, 57%);
-  --color-grey-500: hsl(265, 3%, 53%);
-  --color-grey-600: hsl(265, 4%, 42%);
-  --color-grey-700: hsl(265, 4%, 31%);
-  --color-grey-800: hsl(276, 5%, 20%);
-  --color-grey-900: hsl(280, 5%, 13%);
+  --color-grey-50: hsl(49, 52%, 96%);
+  --color-grey-100: hsl(55, 18%, 88%);
+  --color-grey-200: hsl(187, 54%, 49%);
+  --color-grey-300: hsl(46, 17%, 53%);
+  --color-grey-400: hsl(267, 47%, 55%);
+  --color-grey-500: hsl(266, 74%, 46%);
+  --color-grey-600: hsl(261, 15%, 39%);
+  --color-grey-700: hsl(270, 40%, 37%);
+  --color-grey-800: hsl(280, 61%, 44%);
+  --color-grey-900: hsl(285, 65%, 24%);
 
   --color-primary-50: #c8b3ce;
   --color-primary-100: #a07aaa;
@@ -43,8 +43,8 @@ body {
   --size-40: 10rem;
 
   margin: 0;
-  background-color: var(--color-grey-500);
-  color: #252525;
+  background-color: var(--color-green-800);
+  color: #0f72a0;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -55,7 +55,7 @@ h3 {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: whitesmoke;
 }
 
 button {
